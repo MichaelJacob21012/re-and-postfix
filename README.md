@@ -1,2 +1,2 @@
-# assignment20189
-Skeleton code for Assignment20189
+# re-and-postfix
+Selection of Scala tasks involving regular expressions and postfix operations.
